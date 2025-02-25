@@ -1,7 +1,9 @@
-{
-  "name": "MySpicetifyExtension",
-  "version": "1.0.0",
-  "description": "A cool extension for Spicetify that rotates album covers.",
-  "author": "kaikai",
-  "main": "Vinyl-Rotator.js"
-}
+[
+    {
+      "name": "Vinyl-Rotator",
+      "description": "An extension to rotate your album covers like a vinyl.",
+      "preview": "Vinyl-Rotator/preview.gif",
+      "main": "Vinyl-Rotator/Vinyl-Rotator.js",
+      "readme": "README.md"
+    }
+]
